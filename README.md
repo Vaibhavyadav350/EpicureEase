@@ -11,45 +11,50 @@
 ![Build Status](https://img.shields.io/badge/build-passing-brightgreen) ![Tests](https://img.shields.io/badge/tests-97%25%20passing-brightgreen) ![License](https://img.shields.io/badge/license-MIT-blue)
 
 ---
+## 🌟 Features:
 
-### 🌠 Features:
+- **User Authentication**: Safe and secure login/registration using Firestore.
+- **Seller Dashboard**:
+    - 🍎 Post, edit, or remove product listings.
+    - 💰 Input UPI ID for seamless transactions.
+- **Customer Experience**:
+    - 🛍️ Shop with an innovative health-first sorting algorithm.
+    - 💳 Direct UPI payments with GPay integration.
+- **Responsive UI**: Beautiful Material You Design adapts to user preferences.
+- **Notifications**: Real-time updates for sellers and buyers.
+- **Feedback System**: Rate and review products and sellers.
 
-<details>
-  <summary><b>🔐 User Authentication</b> (click to expand)</summary>
+## 📸 Screenshots:
 
-- Secure login and registration using Firestore.
-- Password recovery options.
-- Multi-factor authentication.
-</details>
+| Home Screen | Product Detail | Cart | 
+|:---:|:---:|:---:|
+| ![Home](URL_TO_HOME_SCREENSHOT) | ![Product](URL_TO_PRODUCT_SCREENSHOT) | ![Cart](URL_TO_CART_SCREENSHOT) |
 
-<details>
-  <summary><b>🌱 Seller Dashboard</b> (click to expand)</summary>
+(Add more screenshots as required.)
 
-- Post, edit, or remove product listings with intuitive UI.
-- Real-time sales analytics.
-- Direct UPI transactions with buyers.
-</details>
+## 💻 Technology Stack:
 
-... (other features using the same collapsible markdown)
-
----
-
-### 🎨 Screenshots:
-
----
+- **Frontend**: Flutter (Material You design aesthetics)
+- **Backend**: Firestore
+- **State Management**: BLoC
+- **Payments**: UPI with GPay
 
 ### 🚀 Getting Started:
 
 ```bash
 # Clone the repository
 git clone https://github.com/Vaibhavyadav350/grocery_app.git
+```
 
+```bash
 # Navigate to project directory
 cd grocery_app
-
+```
+```bash
 # Install dependencies
 flutter pub get
-
+```
+```bash
 # Run the app
 flutter run
 ```
@@ -64,7 +69,8 @@ flutter run
   ```bash
   # Android
   flutter build apk
-
+```
+```bash
   # iOS (requires a Mac with Xcode)
   flutter build ios
   ```
@@ -83,3 +89,7 @@ flutter run
 ### 📝 License:
 
 This project is licensed under the [MIT License](LICENSE).
+
+
+
+
