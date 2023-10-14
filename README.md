@@ -70,5 +70,3 @@
 - Categories (Icon with label)
 - Cart (Icon with badge for the number of items)
 - Profile (Icon with label)
-
----
