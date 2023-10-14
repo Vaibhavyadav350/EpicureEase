@@ -15,6 +15,8 @@ class SecondPage extends StatelessWidget {
               Image.asset("assets/images/ill1.png"),
               SizedBox(
                 height: 20,
+              ),SizedBox(
+                height: 20,
               ),
               Text(
                 "Order your Groceries \nfrom your phone",
