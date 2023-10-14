@@ -17,9 +17,6 @@ class SecondPage extends StatelessWidget {
                 height: 20,
               ),
               Text(
-
-
-
                 "Order your Groceries \nfrom your phone",
                 style: TextStyle(fontWeight: FontWeight.bold, fontSize: 24),
                 textAlign: TextAlign.center,
