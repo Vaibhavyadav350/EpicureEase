@@ -39,29 +39,30 @@
 - **State Management**: BLoC
 - **Payments**: UPI with GPay
 
-### 🚀 Getting Started:
+## 🚀 Getting Started:
 
+### Clone the repository
 ```bash
-# Clone the repository
 git clone https://github.com/Vaibhavyadav350/grocery_app.git
 ```
-
+### Navigate to project directory
 ```bash
-# Navigate to project directory
+
 cd grocery_app
 ```
+### Install dependencies
 ```bash
-# Install dependencies
+
 flutter pub get
 ```
+### Run the app
 ```bash
-# Run the app
 flutter run
 ```
 
 ---
 
-### 📦 Build:
+## 📦 Build:
 
 <details>
   <summary><b>📱 Build for Mobile</b> (click to expand)</summary>
