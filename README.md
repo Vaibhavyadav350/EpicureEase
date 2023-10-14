@@ -67,12 +67,14 @@ flutter run
 <details>
   <summary><b>📱 Build for Mobile</b> (click to expand)</summary>
 
+### Android
+
   ```bash
-  # Android
   flutter build apk
 ```
+### iOS (requires a Mac with Xcode)
+
 ```bash
-  # iOS (requires a Mac with Xcode)
   flutter build ios
   ```
 </details>
