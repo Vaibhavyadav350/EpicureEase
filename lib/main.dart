@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:vgrocery_mart/pages/First.dart';
+import 'package:vgrocery_mart/pages/first.dart';
 
 import 'home/home.dart';
 
