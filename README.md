@@ -82,10 +82,10 @@ EpicureEase is a comprehensive grocery shopping companion app that aligns your d
 
 ```shell
 # Clone the repository
-git clone https://github.com/your-username/EpicureEase.git
+https://github.com/Vaibhavyadav350/grocery_app.git
 
 # Navigate to the project directory
-cd EpicureEase
+cd grocery_app
 
 # Install dependencies
 flutter pub get
