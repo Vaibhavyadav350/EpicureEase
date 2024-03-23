@@ -93,25 +93,16 @@ flutter pub get
 flutter run
 ```
 
-
 ## Contributing
+We welcome contributions from all developers! If you have any ideas for new features or improvements, feel free to open an issue or submit a pull request.
 
-Contributions are welcome and greatly appreciated. Please read the [CONTRIBUTING.md](CONTRIBUTING.md) file for details on our code of conduct, and the process for submitting pull requests to us.
+## 🌐 Explore & Engage
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
-
-## Contact
-
-Project Link: [https://github.com/your-username/EpicureEase](https://github.com/your-username/EpicureEase)
+* 🔗 [Vaibhavyadav350's GitHub](https://github.com/Vaibhavyadav350)
+* 🌟 [Vaibhav on LinkedIn](https://linkedin.com/in/vaibhav-yadav-b20045213/)
 
 
-### 📝 License:
+## 📝 License:
 
 This project is licensed under the [MIT License](LICENSE).
 
-
-
-
-![Build Status](https://img.shields.io/badge/build-passing-brightgreen) ![Tests](https://img.shields.io/badge/tests-97%25%20passing-brightgreen) ![License](https://img.shields.io/badge/license-MIT-blue)
