@@ -1,26 +1,21 @@
 # EpicureEase
 ![EpicureEase Logo](https://example.com/epicureease-logo.png)
 
-
-[![Flutter](https://img.shields.io/badge/Flutter-Framework-blue?logo=flutter)](https://flutter.dev/)
-[![Flutter Bloc](https://img.shields.io/badge/Flutter-BLoC-blue?logo=flutter)](https://bloclibrary.dev/)
-[![Flutter Navigation](https://img.shields.io/badge/Flutter-Navigation-blue?logo=flutter)](https://flutter.dev/docs/development/ui/navigation)
-[![Django REST Framework](https://img.shields.io/badge/Django%20REST%20Framework-Backend%20Framework-brightgreen?logo=django)](https://www.django-rest-framework.org/)
-[![Django ORM](https://img.shields.io/badge/Django-ORM-brightgreen?logo=django)](https://docs.djangoproject.com/en/stable/topics/db/models/)
-[![Django Auth](https://img.shields.io/badge/Django-Authentication-brightgreen?logo=django)](https://docs.djangoproject.com/en/stable/topics/auth/)
-[![AWS](https://img.shields.io/badge/AWS-Cloud%20Services-orange?logo=amazon-aws)](https://aws.amazon.com/)
-[![AWS EC2](https://img.shields.io/badge/AWS-EC2-orange?logo=amazon-aws)](https://aws.amazon.com/ec2/)
-[![AWS S3](https://img.shields.io/badge/AWS-S3-orange?logo=amazon-aws)](https://aws.amazon.com/s3/)
-[![AWS RDS](https://img.shields.io/badge/AWS-RDS-orange?logo=amazon-aws)](https://aws.amazon.com/rds/)
-[![Firebase Authentication](https://img.shields.io/badge/Firebase-Authentication-yellow?logo=firebase)](https://firebase.google.com/docs/auth)
-[![Firebase Firestore](https://img.shields.io/badge/Firebase-Firestore-yellow?logo=firebase)](https://firebase.google.com/docs/firestore)
-
-
-
 EpicureEase is a comprehensive grocery shopping companion app that aligns your dietary needs with your health goals, offering a personalized nutrition experience.
 
+[![Flutter](https://img.shields.io/badge/Flutter-Framework-blue?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/)
+[![Flutter Bloc](https://img.shields.io/badge/Flutter-BLoC-blue?style=for-the-badge&logo=flutter&logoColor=white)](https://bloclibrary.dev/)
+[![Flutter Navigation](https://img.shields.io/badge/Flutter-Navigation-blue?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/docs/development/ui/navigation)
+[![Django REST Framework](https://img.shields.io/badge/Django%20REST-Backend%20Framework-brightgreen?style=for-the-badge&logo=django&logoColor=white)](https://www.django-rest-framework.org/)
+[![Django ORM](https://img.shields.io/badge/Django-ORM-brightgreen?style=for-the-badge&logo=django&logoColor=white)](https://docs.djangoproject.com/en/stable/topics/db/models/)
+[![Django Auth](https://img.shields.io/badge/Django-Authentication-brightgreen?style=for-the-badge&logo=django&logoColor=white)](https://docs.djangoproject.com/en/stable/topics/auth/)
+[![AWS](https://img.shields.io/badge/AWS-Cloud%20Services-orange?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
+[![AWS EC2](https://img.shields.io/badge/AWS-EC2-orange?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/ec2/)
+[![AWS S3](https://img.shields.io/badge/AWS-S3-orange?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/s3/)
+[![AWS RDS](https://img.shields.io/badge/AWS-RDS-orange?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/rds/)
+[![Firebase Authentication](https://img.shields.io/badge/Firebase-Authentication-yellow?style=for-the-badge&logo=firebase&logoColor=white)](https://firebase.google.com/docs/auth)
+[![Firebase Firestore](https://img.shields.io/badge/Firebase-Firestore-yellow?style=for-the-badge&logo=firebase&logoColor=white)](https://firebase.google.com/docs/firestore)
 ## Features
-
 
 ### User Experience and Functionalities
 
