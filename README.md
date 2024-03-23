@@ -3,9 +3,19 @@
 
 
 [![Flutter](https://img.shields.io/badge/Flutter-Framework-blue?logo=flutter)](https://flutter.dev/)
+[![Flutter Bloc](https://img.shields.io/badge/Flutter-BLoC-blue?logo=flutter)](https://bloclibrary.dev/)
+[![Flutter Navigation](https://img.shields.io/badge/Flutter-Navigation-blue?logo=flutter)](https://flutter.dev/docs/development/ui/navigation)
 [![Django REST Framework](https://img.shields.io/badge/Django%20REST%20Framework-Backend%20Framework-brightgreen?logo=django)](https://www.django-rest-framework.org/)
-[![Firebase Authentication](https://img.shields.io/badge/Firebase-Authentication-yellow?logo=firebase)](https://firebase.google.com/docs/auth)
+[![Django ORM](https://img.shields.io/badge/Django-ORM-brightgreen?logo=django)](https://docs.djangoproject.com/en/stable/topics/db/models/)
+[![Django Auth](https://img.shields.io/badge/Django-Authentication-brightgreen?logo=django)](https://docs.djangoproject.com/en/stable/topics/auth/)
 [![AWS](https://img.shields.io/badge/AWS-Cloud%20Services-orange?logo=amazon-aws)](https://aws.amazon.com/)
+[![AWS EC2](https://img.shields.io/badge/AWS-EC2-orange?logo=amazon-aws)](https://aws.amazon.com/ec2/)
+[![AWS S3](https://img.shields.io/badge/AWS-S3-orange?logo=amazon-aws)](https://aws.amazon.com/s3/)
+[![AWS RDS](https://img.shields.io/badge/AWS-RDS-orange?logo=amazon-aws)](https://aws.amazon.com/rds/)
+[![Firebase Authentication](https://img.shields.io/badge/Firebase-Authentication-yellow?logo=firebase)](https://firebase.google.com/docs/auth)
+[![Firebase Firestore](https://img.shields.io/badge/Firebase-Firestore-yellow?logo=firebase)](https://firebase.google.com/docs/firestore)
+
+
 
 EpicureEase is a comprehensive grocery shopping companion app that aligns your dietary needs with your health goals, offering a personalized nutrition experience.
 
@@ -21,7 +31,8 @@ EpicureEase is a comprehensive grocery shopping companion app that aligns your d
 - **Meal Planning and Recipes:** Tools and recipes utilizing groceries in the cart.
 - **Health Tracking Integration:** Integrates with health tracking devices.
 - **Community Engagement:** Connects users, allowing sharing and accessing nutrition knowledge.
-- 
+
+
 | Personalized Nutritional Profiles | Nutrient-Based Grocery Discovery | Organ Health Recommendations |
 |------------------------------------|-----------------------------------|------------------------------|
 | ![Nutritional Profiles](assets/screenshots/nutritional_profiles.jpg) | ![Grocery Discovery](assets/screenshots/grocery_discovery.jpg) | ![Organ Recommendations](assets/screenshots/organ_recommendations.jpg) |
@@ -36,7 +47,8 @@ EpicureEase is a comprehensive grocery shopping companion app that aligns your d
 - **Sales Analytics:** Access to a dashboard that provides insights into sales trends, popular products, and customer purchasing habits.
 
 - **Order Fulfillment:** Tools to manage orders, track delivery status, and communicate with buyers regarding their purchases.
-- | Product Management | Transaction Management | Sales Analytics |
+
+| Product Management | Transaction Management | Sales Analytics |
 |--------------------|------------------------|-----------------|
 | ![Product Management](assets/screenshots/product_management.jpg) | ![Transaction Management](assets/screenshots/transaction_management.jpg) | ![Sales Analytics](assets/screenshots/sales_analytics.jpg) |
 
@@ -86,11 +98,6 @@ flutter pub get
 flutter run
 ```
 
-## Screenshots
-
-![Login Screen](ss-login.png)
-![Profile Setup](ss-profile-setup.png)
-![Grocery Discovery](ss-grocery-discovery.png)
 
 ## Contributing
 
