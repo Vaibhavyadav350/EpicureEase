@@ -1,5 +1,6 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
+import 'package:vgrocery_mart/home/home.dart';
 
 class SecondPage extends StatelessWidget {
   const SecondPage({super.key});
@@ -12,36 +13,58 @@ class SecondPage extends StatelessWidget {
           padding: const EdgeInsets.all(12.0),
           child: Column(
             children: [
-              Image.asset("assets/images/ill1.png"),
               SizedBox(
-                height: 20,
-              ),SizedBox(
-                height: 20,
+                height: 60,
+              ),
+              Image.asset("assets/images/ill2.png",height: 300,width: 300,),
+              SizedBox(
+                height: 60,
               ),
               Text(
-                "Order your Groceries \nfrom your phone",
+                "Delevering groceries\nunder 15 minutes",
                 style: TextStyle(fontWeight: FontWeight.bold, fontSize: 24),
                 textAlign: TextAlign.center,
               ),
               SizedBox(
-                height: 20,
+                height: 35,
               ),
               Text(
-                "Now you can get groceries item at \n your doorstep.",
+                "Explore and order your\nfavourite grocery items.",
                 style: TextStyle(fontSize: 16),
                 textAlign: TextAlign.center,
               ),
-              SizedBox(
-                height: 20,
-              ),
-              ElevatedButton(
-                onPressed: () {},
-                child: Icon(Icons.arrow_forward),
-                style: ButtonStyle(
-                  fixedSize:MaterialStateProperty.all(Size.square(55)),
-                  backgroundColor: MaterialStateProperty.all(Colors.amber),
-                  shape: MaterialStateProperty.all(CircleBorder(side:BorderSide.none)),
-                ),)
+              Expanded(
+                child: Row(
+                  mainAxisAlignment: MainAxisAlignment.center,
+                  children: [
+                    ElevatedButton(
+                      onPressed: () {
+                        Navigator.push(
+                            context,
+                            MaterialPageRoute(
+                                builder: (context) => HomePage()));
+                      },
+                      child: Text(
+                        "Explore",
+                        style: TextStyle(
+                            fontWeight: FontWeight.bold,
+                            fontSize: 16,
+                            color: Colors.black),
+                      ),
+                      style: ButtonStyle(
+                        fixedSize:
+                            MaterialStateProperty.all(Size.fromWidth(200)),
+                        backgroundColor:
+                            MaterialStateProperty.all(Colors.amber), // Add this
+                        shape: MaterialStateProperty.all(RoundedRectangleBorder(
+                          borderRadius: BorderRadius.circular(
+                              5), // A high value to make it circular
+                        )),
+                      ),
+                    ),
+                  ],
+                ),
+              )
             ],
           ),
         ),
@@ -49,7 +72,3 @@ class SecondPage extends StatelessWidget {
     );
   }
 }
-// I want to create a grocery delivery app in Flutter with some special
-// fetaure sorting features like healthy foods on top (depneing upon the the
-// trans fats and protien (it can be changed but in order ro use dijistra algortihm so do acordingto that  ))
-// which will join both costmner and sellers selllers can list thier projects and couster and

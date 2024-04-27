@@ -1,0 +1,99 @@
+{
+  "categories": [
+    {
+      "name": "Fruits",
+      "subcategories": [
+        {
+          "name": "Fresh Fruits",
+          "subcategories": [
+            {
+              "name": "Citrus",
+              "products": [
+                {"name": "Orange", "price": 1.0},
+                {"name": "Lemon", "price": 0.75}
+              ]
+            },
+            {
+              "name": "Berries",
+              "products": [
+                {"name": "Strawberry", "price": 2.5},
+                {"name": "Blueberry", "price": 3.0}
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Dried Fruits",
+          "products": [
+            {"name": "Raisins", "price": 2.0},
+            {"name": "Apricots", "price": 3.0}
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Vegetables",
+      "subcategories": [
+        {
+          "name": "Leafy Greens",
+          "products": [
+            {"name": "Spinach", "price": 1.0},
+            {"name": "Kale", "price": 1.25}
+          ]
+        },
+        {
+          "name": "Root Vegetables",
+          "products": [
+            {"name": "Carrot", "price": 0.5},
+            {"name": "Potato", "price": 0.75}
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bakery",
+      "products": [
+        {"name": "Bread", "price": 2.5},
+        {"name": "Baguette", "price": 3.0}
+      ]
+    },
+    {
+      "name": "Dairy",
+      "subcategories": [
+        {
+          "name": "Milk",
+          "products": [
+            {"name": "Whole Milk", "price": 2.0},
+            {"name": "Skim Milk", "price": 2.25}
+          ]
+        },
+        {
+          "name": "Cheese",
+          "products": [
+            {"name": "Cheddar", "price": 3.5},
+            {"name": "Swiss", "price": 4.0}
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Meat",
+      "subcategories": [
+        {
+          "name": "Poultry",
+          "products": [
+            {"name": "Chicken Breast", "price": 5.0},
+            {"name": "Turkey", "price": 4.5}
+          ]
+        },
+        {
+          "name": "Beef",
+          "products": [
+            {"name": "Ground Beef", "price": 6.0},
+            {"name": "Steak", "price": 8.0}
+          ]
+        }
+      ]
+    }
+  ]
+}
