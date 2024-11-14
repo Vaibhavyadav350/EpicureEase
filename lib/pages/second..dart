@@ -2,6 +2,8 @@ import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:vgrocery_mart/home/home.dart';
 
+import '../home/homescreen.dart';
+
 class SecondPage extends StatelessWidget {
   const SecondPage({super.key});
 
@@ -42,7 +44,7 @@ class SecondPage extends StatelessWidget {
                         Navigator.push(
                             context,
                             MaterialPageRoute(
-                                builder: (context) => HomePage()));
+                                builder: (context) => HomeScreen()));
                       },
                       child: Text(
                         "Explore",
